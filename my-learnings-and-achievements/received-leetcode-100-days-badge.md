@@ -1,5 +1,7 @@
 #  Reached a LeetCode Milestone: 100 Days Badge
 
+![100 days badge](images/leetcode 100 days badge.png)
+
 Today I received the **100 Days Badge** on LeetCode for 2026! 🎯
 
 While this badge doesn't represent a 100-day streak, it does mark **100 active days of problem-solving throughout the year**—and that's something I'm genuinely happy about.
